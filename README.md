@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @xuannhi2823
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  Cao Đẳng
+- 👀 I’m interested in 
+Female
+- 🌱 I’m currently learning 
+college
 - 💞️ I’m looking to collaborate on  facebook
 - 📫 How to reach me  Contact me via facebook
 
