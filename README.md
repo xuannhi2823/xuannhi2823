@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xuannhi2823
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning  Cao Đẳng
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on  facebook
+- 📫 How to reach me  Contact me via facebook
 
 <!---
 xuannhi2823/xuannhi2823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
